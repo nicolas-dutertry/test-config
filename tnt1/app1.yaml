@@ -10,9 +10,3 @@ app1:
     welcome_message: |
       Bienvenue dans l'application 1 pour le tenant 1
       Que puis-je faire pour vous aujourd'hui?
-  features:
-    - feat1
-    - feat2
-  objects:
-    - obj1: value1
-    - obj2: value2
