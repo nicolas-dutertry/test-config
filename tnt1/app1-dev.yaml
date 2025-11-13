@@ -1,0 +1,9 @@
+﻿# Configuration de app1 pour tenant tnt1 en dev
+app1:
+  name: Application 1 - Tenant 1 (DEV)
+  debug: true
+  tenant:
+    id: tnt1
+  database:
+    url: jdbc:postgresql://localhost:5432/tnt1_app1_dev
+    username: tnt1_dev_user

@@ -1,0 +1,6 @@
+﻿# Configuration par defaut de app1
+app1:
+  name: Application 1
+  version: 1.0.0
+  feature:
+    enabled: true

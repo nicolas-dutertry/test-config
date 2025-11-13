@@ -1,0 +1,8 @@
+﻿# Configuration de app1 pour tenant tnt1
+app1:
+  name: Application 1 - Tenant 1
+  tenant:
+    id: tnt1
+    name: Tenant 1
+  database:
+    url: jdbc:postgresql://localhost:5432/tnt1_app1

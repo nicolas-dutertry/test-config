@@ -1,0 +1,6 @@
+﻿# Configuration par defaut de app1 pour l'environnement dev
+app1:
+  name: Application 1 (DEV)
+  debug: true
+  database:
+    url: jdbc:postgresql://localhost:5432/app1_dev

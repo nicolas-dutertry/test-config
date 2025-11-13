@@ -1,0 +1,6 @@
+﻿# Configuration de app1 pour tenant tnt2
+app1:
+  name: Application 1 - Tenant 2
+  tenant:
+    id: tnt2
+    name: Tenant 2

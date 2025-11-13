@@ -1,1 +1,8 @@
-test: 'coucou'
+﻿# Configuration globale
+global:
+  property: global-value
+  timezone: Europe/Paris
+
+logging:
+  level:
+    root: INFO

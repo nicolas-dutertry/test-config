@@ -1,0 +1,4 @@
+﻿# Configuration de app2 pour tenant tnt1 en dev
+app2:
+  name: Application 2 - Tenant 1 (DEV)
+  debug: true

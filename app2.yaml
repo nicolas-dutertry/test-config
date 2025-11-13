@@ -1,0 +1,4 @@
+﻿# Configuration par defaut de app2
+app2:
+  name: Application 2
+  version: 2.0.0
